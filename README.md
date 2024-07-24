@@ -1,5 +1,5 @@
 # Hello World Program in C
-In this repository I'm covered hello world program in c. 
+In this repository i'm covered hello world program in c. 
 
 ```bash
 #include <stdio.h>
